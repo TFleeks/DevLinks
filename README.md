@@ -18,9 +18,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src="![Sem título1](https://github.com/TFleeks/DevLinks/assets/172528140/0da6d0dd-add7-42ee-ab7f-17d596cffaa0)" width="100%">
-</p>
+![Sem título1](https://github.com/TFleeks/DevLinks/assets/172528140/29bf43b7-ff41-439f-9a53-4909fdff885c)
+![Sem título2](https://github.com/TFleeks/DevLinks/assets/172528140/272d1f2d-ba70-41ef-8ecf-fb9079f5740f)
+
+
 
 ## 🚀 Tecnologias
 
